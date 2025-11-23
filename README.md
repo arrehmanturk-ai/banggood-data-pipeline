@@ -53,7 +53,7 @@ banggood-pipeline/
 │   ├── sql_loader.py             # Database loader
 │   └── analysis.py               # Analysis & charts
 ├── sql/
-│   └── queries.sql               # 12 SQL queries
+│   └── queries.sql               # 5 SQL queries
 ├── visualizations/               # Generated charts
 └── requirements.txt              # Dependencies
 ```
@@ -63,8 +63,8 @@ banggood-pipeline/
 ✅ Automated web scraping with error handling  
 ✅ Complete data cleaning pipeline  
 ✅ SQL Server integration  
-✅ 12+ analytical SQL queries  
-✅ 5+ professional visualizations  
+✅ 5 analytical SQL queries  
+✅ 5 professional visualizations  
 ✅ Business recommendations
 
 ## What I Found
@@ -103,7 +103,7 @@ FROM Products
 GROUP BY Category;
 ```
 
-See `sql/queries.sql` for all 12 queries!
+See `sql/queries.sql` for all 5 queries!
 
 ## Technologies Used
 
@@ -111,60 +111,5 @@ See `sql/queries.sql` for all 12 queries!
 - **Processing:** Pandas, NumPy
 - **Database:** SQL Server, PyODBC
 - **Visualization:** Matplotlib, Seaborn
-
-## Common Issues
-
-**ChromeDriver not found?**
-```bash
-# Download ChromeDriver for your Chrome version
-# Windows: choco install chromedriver
-# Mac: brew install chromedriver
-```
-
-**SQL connection failed?**
-```python
-# Update server name in sql_loader.py
-server = r"YOUR_SERVER_NAME"
-```
-
-**Module not found?**
-```bash
-pip install -r requirements.txt --force-reinstall
-```
-
-## Contributing
-
-Found a bug? Want to add a feature? Pull requests welcome!
-
-1. Fork the repo
-2. Create your branch (`git checkout -b cool-feature`)
-3. Commit changes (`git commit -m 'Add cool feature'`)
-4. Push to branch (`git push origin cool-feature`)
-5. Open a Pull Request
-
-## License
-
-MIT License - feel free to use this for your own projects!
-
-## Author
-
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
-## Acknowledgments
-
-Thanks to:
-- Banggood for accessible product data
-- Python data science community
-- Everyone who helped debug my code at 2am 😅
-
----
-
-**Project Status:** ✅ Complete  
-**Last Updated:** November 2025  
-**Time Invested:** ~40 hours from idea to final report
-
----
 
 ⭐ Star this repo if you found it helpful!
