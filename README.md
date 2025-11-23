@@ -16,30 +16,6 @@ This project automatically:
 
 **Result:** 229 products analyzed with actionable insights worth $50K+ in potential revenue
 
-## Quick Start
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/banggood-pipeline.git
-cd banggood-pipeline
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the pipeline
-python scripts/scraper.py      # Step 1: Scrape
-python scripts/cleaner.py      # Step 2: Clean
-python scripts/sql_loader.py   # Step 3: Load to DB
-python scripts/analysis.py     # Step 4: Analyze
-```
-
-## What You Need
-
-- Python 3.9+
-- SQL Server 2016+
-- Chrome browser
-- 4GB RAM
-
 ## Project Structure
 
 ```
@@ -48,14 +24,9 @@ banggood-pipeline/
 │   ├── banggood_raw.csv          # Scraped data
 │   └── banggood_cleaned.csv      # Cleaned data
 ├── scripts/
-│   ├── scraper.py                # Web scraping
-│   ├── cleaner.py                # Data cleaning
-│   ├── sql_loader.py             # Database loader
-│   └── analysis.py               # Analysis & charts
+│   ├── Banggood Project.ipynb    # Web scraping # Data cleaning # Database loader # Analysis & charts
 ├── sql/
-│   └── queries.sql               # 5 SQL queries
-├── visualizations/               # Generated charts
-└── requirements.txt              # Dependencies
+    └── queries.sql               # 5 SQL queries
 ```
 
 ## Key Features
@@ -112,4 +83,5 @@ See `sql/queries.sql` for all 5 queries!
 - **Database:** SQL Server, PyODBC
 - **Visualization:** Matplotlib, Seaborn
 
+Project By : Abdurrehman
 ⭐ Star this repo if you found it helpful!
