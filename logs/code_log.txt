@@ -1,0 +1,215 @@
+[2025-11-23 03:00:14] Batch extraction started with NEW categories...
+[2025-11-23 03:00:14] Starting scrape for: Drones
+[2025-11-23 03:21:48] Batch extraction started with NEW categories...
+[2025-11-23 03:21:48] Starting scrape for: Drones on https://www.banggood.com/Wholesale-RC-Drones-ca-1813.html
+[2025-11-23 03:22:58] Found 0 items in Drones
+[2025-11-23 03:23:00] Starting scrape for: Mens_Clothing on https://www.banggood.com/Wholesale-Mens-Clothing-ca-3003.html
+[2025-11-23 03:23:29] Found 27 items in Mens_Clothing
+[2025-11-23 03:23:31] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 03:24:02] Found 60 items in Computers
+[2025-11-23 03:24:04] Starting scrape for: Home_Garden on https://www.banggood.com/Wholesale-Home-and-Garden-ca-1001.html
+[2025-11-23 03:24:44] Found 60 items in Home_Garden
+[2025-11-23 03:24:47] Starting scrape for: Shoes on https://www.banggood.com/Wholesale-Shoes-and-Flyknit-Shoes-ca-6008.html
+[2025-11-23 03:25:39] Found 3 items in Shoes
+[2025-11-23 03:25:42] Data saved with 150 total items.
+[2025-11-23 03:27:51] Batch extraction started with NEW categories...
+[2025-11-23 03:27:51] Starting scrape for: Electric-Riding on https://www.banggood.com/Wholesale-Electric-Riding-ca-6009.html
+[2025-11-23 03:28:27] Found 60 items in Electric-Riding
+[2025-11-23 03:28:29] Starting scrape for: Mens_Clothing on https://www.banggood.com/Wholesale-Mens-Clothing-ca-3003.html
+[2025-11-23 03:29:10] Found 27 items in Mens_Clothing
+[2025-11-23 03:29:12] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 03:30:04] Found 60 items in Computers
+[2025-11-23 03:30:06] Starting scrape for: Home_Garden on https://www.banggood.com/Wholesale-Home-and-Garden-ca-1001.html
+[2025-11-23 03:30:48] Found 60 items in Home_Garden
+[2025-11-23 03:30:51] Starting scrape for: Shoes on https://www.banggood.com/Wholesale-Shoes-and-Flyknit-Shoes-ca-6008.html
+[2025-11-23 03:31:49] Found 3 items in Shoes
+[2025-11-23 03:31:51] Data saved with 210 total items.
+[2025-11-23 03:38:13] Batch extraction started with NEW categories...
+[2025-11-23 03:38:13] Starting scrape for: Electric-Riding on https://www.banggood.com/Wholesale-Electric-Riding-ca-6009.html
+[2025-11-23 03:40:41] Found 30 items in Electric-Riding
+[2025-11-23 03:40:43] Starting scrape for: Mens_Clothing on https://www.banggood.com/Wholesale-Mens-Clothing-ca-3003.html
+[2025-11-23 03:42:14] Found 27 items in Mens_Clothing
+[2025-11-23 03:42:16] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 03:43:17] Found 60 items in Computers
+[2025-11-23 03:43:20] Starting scrape for: Home_Garden on https://www.banggood.com/Wholesale-Home-and-Garden-ca-1001.html
+[2025-11-23 03:43:53] Found 60 items in Home_Garden
+[2025-11-23 03:43:56] Starting scrape for: Shoes on https://www.banggood.com/Wholesale-Shoes-and-Flyknit-Shoes-ca-6008.html
+[2025-11-23 03:44:39] Found 3 items in Shoes
+[2025-11-23 03:44:42] Data saved with 180 total items.
+[2025-11-23 04:03:02] Batch extraction started with NEW categories...
+[2025-11-23 04:03:02] Starting scrape for: Electric-Riding on https://www.banggood.com/Wholesale-Electric-Riding-ca-6009.html
+[2025-11-23 04:04:17] Found 0 items in Electric-Riding
+[2025-11-23 04:04:21] Starting scrape for: Mens_Clothing on https://www.banggood.com/Wholesale-Mens-Clothing-ca-3003.html
+[2025-11-23 04:05:45] Found 27 items in Mens_Clothing
+[2025-11-23 04:05:47] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 04:06:16] Found 60 items in Computers
+[2025-11-23 04:06:19] Starting scrape for: Home_Garden on https://www.banggood.com/Wholesale-Home-and-Garden-ca-1001.html
+[2025-11-23 04:07:13] Found 60 items in Home_Garden
+[2025-11-23 04:07:16] Starting scrape for: Shoes on https://www.banggood.com/Wholesale-Shoes-and-Flyknit-Shoes-ca-6008.html
+[2025-11-23 04:07:37] Found 3 items in Shoes
+[2025-11-23 04:07:40] Data saved with 150 total items.
+[2025-11-23 04:24:59] Batch extraction started with NEW categories...
+[2025-11-23 04:24:59] Starting scrape for: Electric-Riding on https://www.banggood.com/Wholesale-Electric-Riding-ca-6009.html
+[2025-11-23 04:25:37] Error during page access/parsing for Electric-Riding: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=142.0.7444.176)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xbd4103
+	0xbd4144
+	0x9de71d
+	0x9dbc77
+	0x9ceec8
+	0x9d0884
+	0x9cf396
+	0x9cec82
+	0x9ce98d
+	0x9cc7fe
+	0x9cd28b
+	0x9e24ce
+	0xa6fb37
+	0xa4c90c
+	0xa6ee17
+	0xa4c706
+	0xa1da30
+	0xa1ed54
+	0xe457b4
+	0xe4098a
+	0xbfc392
+	0xbec4c8
+	0xbf324d
+	0xbdc478
+	0xbdc63c
+	0xbc67ca
+	0x75b5fa29
+	0x77cf7a9e
+	0x77cf7a6e
+
+[2025-11-23 04:25:40] Starting scrape for: Mens_Clothing on https://www.banggood.com/Wholesale-Mens-Clothing-ca-3003.html
+[2025-11-23 04:27:22] Batch extraction started with NEW categories...
+[2025-11-23 04:27:22] Starting scrape for: Electric-Riding on https://www.banggood.com/Wholesale-Electric-Riding-ca-6009.html
+[2025-11-23 04:28:41] Error during page access/parsing for Electric-Riding: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=142.0.7444.176)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xbd4103
+	0xbd4144
+	0x9de71d
+	0x9dbc77
+	0x9ceec8
+	0x9d0884
+	0x9cf396
+	0x9cec82
+	0x9ce98d
+	0x9cc7fe
+	0x9cd28b
+	0x9e24ce
+	0xa6fb37
+	0xa4c90c
+	0xa6ee17
+	0xa4c706
+	0xa1da30
+	0xa1ed54
+	0xe457b4
+	0xe4098a
+	0xbfc392
+	0xbec4c8
+	0xbf324d
+	0xbdc478
+	0xbdc63c
+	0xbc67ca
+	0x75b5fa29
+	0x77cf7a9e
+	0x77cf7a6e
+
+[2025-11-23 04:28:43] Starting scrape for: Mens_Clothing on https://www.banggood.com/Wholesale-Mens-Clothing-ca-3003.html
+[2025-11-23 04:29:15] Error during page access/parsing for Mens_Clothing: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=142.0.7444.176)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xbd4103
+	0xbd4144
+	0x9de71d
+	0x9bc32d
+	0xa5329e
+	0xa6e749
+	0xa4c706
+	0xa1da30
+	0xa1ed54
+	0xe457b4
+	0xe4098a
+	0xbfc392
+	0xbec4c8
+	0xbf324d
+	0xbdc478
+	0xbdc63c
+	0xbc67ca
+	0x75b5fa29
+	0x77cf7a9e
+	0x77cf7a6e
+
+[2025-11-23 04:29:17] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 04:29:50] Found 60 items in Computers
+[2025-11-23 04:29:52] Starting scrape for: Home_Garden on https://www.banggood.com/Wholesale-Home-and-Garden-ca-1001.html
+[2025-11-23 04:30:20] Found 60 items in Home_Garden
+[2025-11-23 04:30:23] Starting scrape for: Shoes on https://www.banggood.com/Wholesale-Shoes-and-Flyknit-Shoes-ca-6008.html
+[2025-11-23 04:30:41] Batch extraction started with NEW categories...
+[2025-11-23 04:30:41] Starting scrape for: Electric-Riding on https://www.banggood.com/Wholesale-Electric-Riding-ca-6009.html
+[2025-11-23 04:31:04] Found 60 items in Electric-Riding
+[2025-11-23 04:31:06] Starting scrape for: Mens_Clothing on https://www.banggood.com/Wholesale-Mens-Clothing-ca-3003.html
+[2025-11-23 04:31:32] Found 27 items in Mens_Clothing
+[2025-11-23 04:31:34] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 04:31:59] Found 60 items in Computers
+[2025-11-23 04:32:02] Starting scrape for: Home_Garden on https://www.banggood.com/Wholesale-Home-and-Garden-ca-1001.html
+[2025-11-23 04:32:25] Found 60 items in Home_Garden
+[2025-11-23 04:32:28] Starting scrape for: Shoes on https://www.banggood.com/Wholesale-Shoes-and-Flyknit-Shoes-ca-6008.html
+[2025-11-23 04:32:52] Found 3 items in Shoes
+[2025-11-23 04:32:54] Data saved with 210 total items.
+[2025-11-23 04:39:27] Batch extraction started with NEW categories...
+[2025-11-23 04:39:27] Starting scrape for: Electric-Riding on https://www.banggood.com/Wholesale-Electric-Riding-ca-6009.html
+[2025-11-23 04:39:45] Found 0 items in Electric-Riding
+[2025-11-23 04:39:47] Starting scrape for: Mens_Clothing on https://www.banggood.com/Wholesale-Mens-Clothing-ca-3003.html
+[2025-11-23 04:40:06] Found 0 items in Mens_Clothing
+[2025-11-23 04:40:09] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 04:40:31] Found 60 items in Computers
+[2025-11-23 04:40:34] Starting scrape for: Home_Garden on https://www.banggood.com/Wholesale-Home-and-Garden-ca-1001.html
+[2025-11-23 04:40:52] Found 0 items in Home_Garden
+[2025-11-23 04:40:54] Starting scrape for: Shoes on https://www.banggood.com/Wholesale-Shoes-and-Flyknit-Shoes-ca-6008.html
+[2025-11-23 04:41:12] Found 0 items in Shoes
+[2025-11-23 04:41:15] Data saved with 60 total items.
+[2025-11-23 04:50:44] Batch extraction started with NEW categories...
+[2025-11-23 04:50:44] Starting scrape for: Camping on https://www.banggood.com/Wholesale-Camping-ca-6030.html
+[2025-11-23 04:51:01] Found 0 items in Camping
+[2025-11-23 04:51:04] Starting scrape for: Outdoor-Lighting on https://www.banggood.com/Wholesale-Outdoor-Lighting-ca-14029.html
+[2025-11-23 04:51:22] Found 0 items in Outdoor-Lighting
+[2025-11-23 04:51:24] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 04:51:43] Found 0 items in Computers
+[2025-11-23 04:51:46] Starting scrape for: Networking on https://www.banggood.com/Wholesale-Networking-ca-5061.html
+[2025-11-23 04:52:05] Found 0 items in Networking
+[2025-11-23 04:52:09] Starting scrape for: Commercial-Lighting on https://www.banggood.com/Wholesale-Commercial-Lighting-ca-14124.html
+[2025-11-23 04:52:29] Found 0 items in Commercial-Lighting
+[2025-11-23 04:52:31] No data extracted.
+[2025-11-23 04:55:46] Batch extraction started with NEW categories...
+[2025-11-23 04:55:46] Starting scrape for: Camping on https://www.banggood.com/Wholesale-Camping-ca-6030.html
+[2025-11-23 04:56:07] Found 60 items in Camping
+[2025-11-23 04:56:09] Starting scrape for: Outdoor-Lighting on https://www.banggood.com/Wholesale-Outdoor-Lighting-ca-14029.html
+[2025-11-23 04:56:35] Found 60 items in Outdoor-Lighting
+[2025-11-23 04:56:38] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 04:57:02] Found 60 items in Computers
+[2025-11-23 04:57:05] Starting scrape for: Networking on https://www.banggood.com/Wholesale-Networking-ca-5061.html
+[2025-11-23 04:57:25] Found 45 items in Networking
+[2025-11-23 04:57:27] Starting scrape for: Commercial-Lighting on https://www.banggood.com/Wholesale-Commercial-Lighting-ca-14124.html
+[2025-11-23 04:57:51] Found 4 items in Commercial-Lighting
+[2025-11-23 04:57:53] Data saved with 229 total items.
+[2025-11-23 05:08:18] Batch extraction started with NEW categories...
+[2025-11-23 05:08:18] Starting scrape for: Camping on https://www.banggood.com/Wholesale-Camping-ca-6030.html
+[2025-11-23 05:08:43] Found 60 items in Camping
+[2025-11-23 05:08:46] Starting scrape for: Outdoor-Lighting on https://www.banggood.com/Wholesale-Outdoor-Lighting-ca-14029.html
+[2025-11-23 05:09:08] Found 60 items in Outdoor-Lighting
+[2025-11-23 05:09:11] Starting scrape for: Computers on https://www.banggood.com/Wholesale-Computers-and-Office-ca-2002.html
+[2025-11-23 05:09:35] Found 60 items in Computers
+[2025-11-23 05:09:37] Starting scrape for: Networking on https://www.banggood.com/Wholesale-Networking-ca-5061.html
+[2025-11-23 05:10:01] Found 45 items in Networking
+[2025-11-23 05:10:04] Starting scrape for: Commercial-Lighting on https://www.banggood.com/Wholesale-Commercial-Lighting-ca-14124.html
+[2025-11-23 05:10:28] Found 4 items in Commercial-Lighting
+[2025-11-23 05:10:31] Data saved with 229 total items.
