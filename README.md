@@ -84,4 +84,5 @@ See `sql/queries.sql` for all 5 queries!
 - **Visualization:** Matplotlib, Seaborn
 
 Project By : Abdurrehman
+
 ⭐ Star this repo if you found it helpful!
